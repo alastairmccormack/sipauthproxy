@@ -5,7 +5,7 @@ Build
 -
 
 ```shell
-docker build -t sipauthproxy
+docker build -t sipauthproxy .
 ```
 
 Run
